@@ -1,0 +1,5 @@
+C:\Users\08\Desktop\Navegador-web-JohansitoDev-JohaNavega\bin\Release\net9.0-windows\win-x64\publish\MiNavegadorWeb.exe
+C:\Users\08\Desktop\Navegador-web-JohansitoDev-JohaNavega\bin\Release\net9.0-windows\win-x64\publish\MiNavegadorWeb.dll
+C:\Users\08\Desktop\Navegador-web-JohansitoDev-JohaNavega\bin\Release\net9.0-windows\win-x64\publish\MiNavegadorWeb.deps.json
+C:\Users\08\Desktop\Navegador-web-JohansitoDev-JohaNavega\bin\Release\net9.0-windows\win-x64\publish\MiNavegadorWeb.runtimeconfig.json
+C:\Users\08\Desktop\Navegador-web-JohansitoDev-JohaNavega\bin\Release\net9.0-windows\win-x64\publish\MiNavegadorWeb.pdb
