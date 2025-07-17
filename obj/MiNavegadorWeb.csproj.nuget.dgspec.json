@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\08\\Desktop\\MiNavegadorWeb\\MiNavegadorWeb.csproj": {}
+    "C:\\Users\\08\\Desktop\\Navegador-web-JohansitoDev-JohaNavega\\MiNavegadorWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\08\\Desktop\\MiNavegadorWeb\\MiNavegadorWeb.csproj": {
+    "C:\\Users\\08\\Desktop\\Navegador-web-JohansitoDev-JohaNavega\\MiNavegadorWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\08\\Desktop\\MiNavegadorWeb\\MiNavegadorWeb.csproj",
+        "projectUniqueName": "C:\\Users\\08\\Desktop\\Navegador-web-JohansitoDev-JohaNavega\\MiNavegadorWeb.csproj",
         "projectName": "MiNavegadorWeb",
-        "projectPath": "C:\\Users\\08\\Desktop\\MiNavegadorWeb\\MiNavegadorWeb.csproj",
+        "projectPath": "C:\\Users\\08\\Desktop\\Navegador-web-JohansitoDev-JohaNavega\\MiNavegadorWeb.csproj",
         "packagesPath": "C:\\Users\\08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\08\\Desktop\\MiNavegadorWeb\\obj\\",
+        "outputPath": "C:\\Users\\08\\Desktop\\Navegador-web-JohansitoDev-JohaNavega\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\08\\AppData\\Roaming\\NuGet\\NuGet.Config"
