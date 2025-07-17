@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiNavegadorWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99f9e85c97d7c5e62581b70718cecbd747900019")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b62fbe22bc6a9a50ad55a37c91195ce143c753")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiNavegadorWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiNavegadorWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
